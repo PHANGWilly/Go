@@ -1,0 +1,11 @@
+- Nombres 
+    - `int`
+    - `float64`
+    - `uint`
+
+- Opérateurs 
+    - `+`
+    - `-`
+    - `*`
+    - `/`
+    - `%`

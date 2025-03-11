@@ -1,0 +1,3 @@
+- instancier des variables :
+    - `var variable int`
+    - `variable := 10`

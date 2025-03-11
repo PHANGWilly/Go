@@ -1,0 +1,7 @@
+- Chaîne
+    - `const name = "Jane"`
+    - `"Jane" + " " + "Austen"`
+    - `\n` ou `\t`
+    - `import "strings"`
+        - `strings.ToLower("MaKEmeLoweRCase")`
+        - `strings.Repeat("Go", 3)`

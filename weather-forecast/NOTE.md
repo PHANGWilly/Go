@@ -1,0 +1,3 @@
+- Commentaire
+    - `//` => une ligne
+    - `/* */` => multi-lignes
