@@ -1,0 +1,1 @@
+initilisation de tableau et implémentation de slice

@@ -1,0 +1,1 @@
+implamentation de `struct`
